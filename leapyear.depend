@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594909505 source:d:\c program\leapyear\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+
